@@ -1,0 +1,17 @@
+C:\Users\no name boy\source\repos\TLabMouseController\TLabMouseController\bin\Debug\netcoreapp3.1\TLabMouseController.exe
+C:\Users\no name boy\source\repos\TLabMouseController\TLabMouseController\bin\Debug\netcoreapp3.1\TLabMouseController.deps.json
+C:\Users\no name boy\source\repos\TLabMouseController\TLabMouseController\bin\Debug\netcoreapp3.1\TLabMouseController.runtimeconfig.json
+C:\Users\no name boy\source\repos\TLabMouseController\TLabMouseController\bin\Debug\netcoreapp3.1\TLabMouseController.runtimeconfig.dev.json
+C:\Users\no name boy\source\repos\TLabMouseController\TLabMouseController\bin\Debug\netcoreapp3.1\TLabMouseController.dll
+C:\Users\no name boy\source\repos\TLabMouseController\TLabMouseController\bin\Debug\netcoreapp3.1\TLabMouseController.pdb
+C:\Users\no name boy\source\repos\TLabMouseController\TLabMouseController\obj\Debug\netcoreapp3.1\TLabMouseController.csproj.AssemblyReference.cache
+C:\Users\no name boy\source\repos\TLabMouseController\TLabMouseController\obj\Debug\netcoreapp3.1\TLabMouseController.Form1.resources
+C:\Users\no name boy\source\repos\TLabMouseController\TLabMouseController\obj\Debug\netcoreapp3.1\TLabMouseController.csproj.GenerateResource.cache
+C:\Users\no name boy\source\repos\TLabMouseController\TLabMouseController\obj\Debug\netcoreapp3.1\TLabMouseController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\no name boy\source\repos\TLabMouseController\TLabMouseController\obj\Debug\netcoreapp3.1\TLabMouseController.AssemblyInfoInputs.cache
+C:\Users\no name boy\source\repos\TLabMouseController\TLabMouseController\obj\Debug\netcoreapp3.1\TLabMouseController.AssemblyInfo.cs
+C:\Users\no name boy\source\repos\TLabMouseController\TLabMouseController\obj\Debug\netcoreapp3.1\TLabMouseController.csproj.CoreCompileInputs.cache
+C:\Users\no name boy\source\repos\TLabMouseController\TLabMouseController\obj\Debug\netcoreapp3.1\TLabMouseController.dll
+C:\Users\no name boy\source\repos\TLabMouseController\TLabMouseController\obj\Debug\netcoreapp3.1\TLabMouseController.pdb
+C:\Users\no name boy\source\repos\TLabMouseController\TLabMouseController\obj\Debug\netcoreapp3.1\TLabMouseController.genruntimeconfig.cache
+C:\Users\no name boy\source\repos\TLabMouseController\TLabMouseController\obj\Debug\netcoreapp3.1\TLabMouseController.Properties.Resources.resources
